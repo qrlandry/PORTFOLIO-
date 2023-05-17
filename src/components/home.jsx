@@ -13,7 +13,7 @@ const Home = () => {
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-gray-300">
           {" "}
-          Full Stack Developer.{" "}
+          A Full Stack Developer.{" "}
         </h2>
         <p className="text-gray-300 py-4 max-w-[700px]">
           I am a full stack developer who focuses on bulding and designing a fun
