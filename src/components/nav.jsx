@@ -92,7 +92,7 @@ const Nav = () => {
             <a
               className="flex justify-between items-center w-full text-white"
               target="_blank"
-              href="https://docs.google.com/document/d/1itc2zn9dk6VOvSi0jcyE813ncqBuXRpEoFxB9TadW_I/edit?usp=sharing"
+              href="https://drive.google.com/file/d/1kHPZZuO4hTAsBVokyuP0wGWnOLhlNgyA/view?usp=sharing"
             >
               Resume <HiOutlineDocumentText size={30} />
             </a>
@@ -137,7 +137,7 @@ const Nav = () => {
             <a
               className="flex justify-between items-center w-full text-white"
               target="_blank"
-              href="#"
+              href="https://drive.google.com/file/d/1kHPZZuO4hTAsBVokyuP0wGWnOLhlNgyA/view?usp=sharing"
             >
               Resume <HiOutlineDocumentText size={20} />
             </a>
